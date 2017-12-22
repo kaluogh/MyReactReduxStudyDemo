@@ -1,4 +1,4 @@
-看书手动写一个React-Redux 案列并记录下全过程。
+看书(深入浅出React和Redux-程墨)手动写一个React-Redux 案列并记录下全过程。
 
 1. 创建工程目录：执行 create-react-app demo-mc-test 生成工程目录，删除App.* 文件，删除logo.svg, 删除registerServiceWorker.js 文件，修改package.json
 "devDependencies": {
