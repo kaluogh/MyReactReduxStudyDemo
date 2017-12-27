@@ -20,6 +20,7 @@
   
   4. 修改（2）添加的文件
 
-  总结：用模块的index.js 暴露接口，通过创建 Store.js 来作为context 来组织组建合并（TODOApp.js)。
+  总结：用模块的index.js 暴露接口，通过创建 Store.js 来作为context 来组织组建合并（TODOApp.js import view)。
+
   
 
